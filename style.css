@@ -1,0 +1,18 @@
+body {
+  background-color: powderblue;
+}
+
+#head {
+  font-size:25px;
+}
+
+#text {
+  background-color: powderblue;
+  color: black;
+  border: 2px solid #4CAF50; 
+}
+
+
+p {
+  color: red;
+}
